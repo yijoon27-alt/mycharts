@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  sk033-myfirst-helmchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-27T10:28:15.977509+09:00"
+    description: A Helm chart for Kubernetes
+    digest: ef6f94c7d27bfd753ff754e7bd8a8bdb163f2b8a489baff1204dd5385f998f5a
+    name: sk033-myfirst-helmchart
+    type: application
+    urls:
+    - https://yijoon27-alt.github.io/mycharts/sk033-myfirst-helmchart-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-27T10:28:15.977211+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 7c07878020f7b105dce4f258cb85dd7b71ee6839fd8248291e434f23698c0920
+    name: sk033-myfirst-helmchart
+    type: application
+    urls:
+    - https://yijoon27-alt.github.io/mycharts/sk033-myfirst-helmchart-0.0.1.tgz
+    version: 0.0.1
+generated: "2026-10-27T10:28:15.976678+09:00"
